@@ -69,7 +69,7 @@ and it is sent again.
 | | |
 |---|---|
 | Network | GenLayer Studio Dev / Studio Next — chain `61997` |
-| Contract | [`0xb68dC2fF071862504aC325EA9F0261db3B53Da1b`](https://explorer-studio-dev.genlayer.com/address/0xb68dC2fF071862504aC325EA9F0261db3B53Da1b) — CI checks the deployed code equals [`contracts/ScoreBond.py`](contracts/ScoreBond.py) |
+| Contract | [`0x6Cd9CdA209dc5f6784a4B2A3327baFF72B7b728E`](https://explorer-studio-dev.genlayer.com/address/0x6Cd9CdA209dc5f6784a4B2A3327baFF72B7b728E) — CI checks the deployed code equals [`contracts/ScoreBond.py`](contracts/ScoreBond.py) |
 | Deploy record | [`STUDIO_DEV_DEPLOY.md`](STUDIO_DEV_DEPLOY.md) — every transaction of the demo, including the refused ones |
 
 ## Lint
