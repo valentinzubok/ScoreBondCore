@@ -4,3 +4,7 @@ out/
 __pycache__/
 .pytest_cache/
 *.tsbuildinfo
+key_*
+scripts/demo/done.json
+scripts/demo/log.jsonl
+scripts/demo/node_modules

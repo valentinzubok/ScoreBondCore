@@ -69,8 +69,9 @@ and it is sent again.
 | | |
 |---|---|
 | Network | GenLayer Studio Dev / Studio Next — chain `61997` |
-| Contract | [`0x6Cd9CdA209dc5f6784a4B2A3327baFF72B7b728E`](https://explorer-studio-dev.genlayer.com/address/0x6Cd9CdA209dc5f6784a4B2A3327baFF72B7b728E) — CI checks the deployed code equals [`contracts/ScoreBond.py`](contracts/ScoreBond.py) |
-| Deploy record | [`STUDIO_DEV_DEPLOY.md`](STUDIO_DEV_DEPLOY.md) — every transaction of the demo, including the refused ones |
+| Contract | [`0xc4547873D179B63C24808828652fb97Bb30Ba9Dc`](https://explorer-studio-dev.genlayer.com/address/0xc4547873D179B63C24808828652fb97Bb30Ba9Dc) — CI checks the deployed code equals [`contracts/ScoreBond.py`](contracts/ScoreBond.py) (sha256 `501ef58c…5eb80b2`) |
+| Deploy record | [`STUDIO_DEV_DEPLOY.md`](STUDIO_DEV_DEPLOY.md) — every transaction of the 2026-11-24 demo (a MET bond, a BREACHED bond, withdrawals), including the refused ones |
+| Earlier v2 deployment | [`0x6Cd9CdA209dc5f6784a4B2A3327baFF72B7b728E`](https://explorer-studio-dev.genlayer.com/address/0x6Cd9CdA209dc5f6784a4B2A3327baFF72B7b728E) — the same source, deployed 2026-11-16 and cited by the [ScoreBond project](https://github.com/valentinzubok/ScoreBond) milestone; its run: [`docs/STUDIO_DEV_DEPLOY_v2_0x6Cd9.md`](docs/STUDIO_DEV_DEPLOY_v2_0x6Cd9.md) |
 
 ## Lint
 
